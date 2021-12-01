@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Nelson Mandela
 
 # Username (this should match the folder name)
 authors:
